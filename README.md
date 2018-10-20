@@ -1,4 +1,5 @@
 # VueEbook
+This is source code for ebook **Starters Kit for Vue.js, Firebase, Bootstrap** check it out [here](http://vueguy.com/)
 
 ## Introduction
 Vue.js is quickly becoming one of the most powerful and popular javascript frameworks. Combine it with Firebase and you can create really cool web apps. However, when you are new to web development, things can become overwhelming very quickly from all options and solutions there are out.
